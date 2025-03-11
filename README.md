@@ -10,10 +10,20 @@
 
 
 ✉️ Вы можете связаться со мной по адресу jin.drew@yandex.ru
-<a href="https://daniilshat.ru/" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
+
+<h1 align="center" height="32">📪 Связаться со мной</h1>  
+
+<a align="center"   href="t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536" width="48" height="48"><a/>
+
+<a align="center" height="10"  href="t.me/jin_drew" target="_blank">![free-icon-telegram-2673791](https://github.com/user-attachments/assets/647283af-0902-4645-bb86-a0106869ef14)<a/>
+<a align="center" height="10"  href="t.me/jin_drew" target="_blank">![image](https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536)<a/>
 
 
- <h1 align="center" height="32">👨🏻‍💻 Языки и инструменты</h1>   
+<a align="center" href="t.me/jin_drew" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
+<a align="center" href="t.me/jin_drew" target="_blank">![](https://www.flaticon.com/ru/free-icon/telegram_2111646)<a/>
+
+
+<h1 align="center" height="32">👨🏻‍💻 Языки и инструменты</h1>   
  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
