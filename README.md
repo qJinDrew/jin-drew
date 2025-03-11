@@ -13,7 +13,7 @@
 
 <h1 align="center" height="32">📪 Связаться со мной</h1>  
 
-<a align="center"   href="t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536" width="48" height="48"><a/>
+<a align="center"   href="[t.me/jin_drew](https://t.me/jin_drew)" target="_blank"><img src="https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536" width="48" height="48"><a/>
 
 <a align="center" height="10"  href="t.me/jin_drew" target="_blank">![free-icon-telegram-2673791](https://github.com/user-attachments/assets/647283af-0902-4645-bb86-a0106869ef14)<a/>
 <a align="center" height="10"  href="t.me/jin_drew" target="_blank">![image](https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536)<a/>
