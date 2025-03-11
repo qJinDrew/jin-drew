@@ -10,10 +10,13 @@
 
 
 ✉️ Вы можете связаться со мной по адресу jin.drew@yandex.ru
-
+ 
 <h1 align="center" height="32">📪 Связаться со мной</h1>  
 
-<a align="center"   href="https://t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536" width="48" height="48"><a/>
+<a align="center" href="https://t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536"  align="center" width="48" height="48"><a/>
+<a align="center" href='jin.drew@yandex.ru' target="_blank"><img src="https://github.com/user-attachments/assets/2e5e8e54-1815-4fdf-b145-ac3c59ebf452"  align="center" width="48" height="48"><a/>
+
+
 
 <a align="center" height="10"  href="t.me/jin_drew" target="_blank">![free-icon-telegram-2673791](https://github.com/user-attachments/assets/647283af-0902-4645-bb86-a0106869ef14)<a/>
 <a align="center" height="10"  href="t.me/jin_drew" target="_blank">![image](https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536)<a/>
