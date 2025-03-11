@@ -1,6 +1,6 @@
-<h1 align="center">Привет 👋 Меня зовут Jin</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  Меня зовут Jin</a> 
+ 
+
 
  
 Я фронтенд-разработчик с опытом в разработке пользовательских интерфейсов. Мне нравится создавать удобные и понятные веб-ресурсы.
