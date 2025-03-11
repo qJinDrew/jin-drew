@@ -13,8 +13,11 @@
  
 <h1 align="center" height="32">📪 Связаться со мной</h1>  
 
-<a align="center" href="https://t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/2e5e8e54-1815-4fdf-b145-ac3c59ebf452"  align="center" width="48" height="48"><a/>
-<a align="center" href='mailto:jin.drew@yandex.ru' target="_blank"><img src="https://github.com/user-attachments/assets/28e3875f-5abf-44ed-bc75-297c0f8f3536"  align="center" width="48" height="48"><a/>
+<div align="center" dir='auto'>
+<a   href="https://t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/2e5e8e54-1815-4fdf-b145-ac3c59ebf452"   width="48" height="48"><a/>
+<a   href='https://github.com/qJinDrew' ><img src="https://skillicons.dev/icons?i=github"   width="48" height="48"><a/> 
+</div>
+
 
 <h1 align="center" height="32">👨🏻‍💻 Языки и инструменты</h1>   
  
