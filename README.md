@@ -14,13 +14,14 @@
 <h1 align="center" height="32">📪 Связаться со мной</h1>  
 
 <div align="center" dir='auto'>
-<a   href="https://t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/2e5e8e54-1815-4fdf-b145-ac3c59ebf452"   width="48" height="48"><a/>
-<a   href='https://github.com/qJinDrew' ><img src="https://skillicons.dev/icons?i=github"   width="48" height="48"><a/> 
+<p><a   href="https://t.me/jin_drew" target="_blank"><img src="https://github.com/user-attachments/assets/2e5e8e54-1815-4fdf-b145-ac3c59ebf452"   width="48" height="48"><a/></p>
+<p><a   href='https://github.com/qJinDrew' target="_blank" ><img src="https://skillicons.dev/icons?i=github"   width="48" height="48"><a/></p>
 </div>
 
 
 <h1 align="center" height="32">👨🏻‍💻 Языки и инструменты</h1>   
- 
+
+<div align="center" dir='auto'>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,3 +45,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
